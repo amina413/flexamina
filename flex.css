@@ -104,7 +104,8 @@ flex-direction: column;
 padding-top: 20px;
 text-align: center;
     }
-    .boxes.container {
+    
+    .boxes .container {
         display: block;
         text-align: center;
     }
